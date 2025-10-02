@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="devin-clements-banner.png" alt="Devin Clements GitHub Banner" width="100%">
+</p>
+
+
 # 👋 Hi, I'm Devin
 
 I'm a Security+ certified cybersecurity analyst with deep expertise in threat hunting, log analysis, and incident response. Currently pursuing **CySA+** to sharpen my detection engineering and real-world SOC capabilities.
@@ -33,6 +38,7 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 
 ## 🤝 Connect
 [LinkedIn](https://linkedin.com/in/devinclements) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+
 
 
 
