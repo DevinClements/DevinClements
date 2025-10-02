@@ -22,6 +22,7 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 -	![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Mapping-critical)
 
 ## Badges 
+
 <!-- START CREDLY BADGES -->
 [![Generative AI Overview for Project Managers](https://images.credly.com/size/150x150/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob)](https://www.credly.com/badges/7444fde9-e234-489b-8e77-91881833ecf2)
 [![Talking to AI: Prompt Engineering for Project Managers](https://images.credly.com/size/150x150/images/aa42e8b5-b36d-4b8c-abbe-c6a6f51fd7d9/blob)](https://www.credly.com/badges/0ddca255-336e-47a4-964f-019fe99a9693)
@@ -82,6 +83,7 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 
 ## 🤝 Connect
 [LinkedIn](https://linkedin.com/in/devinclements) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+
 
 
 
