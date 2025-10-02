@@ -50,9 +50,9 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 ![CySA+](https://img.shields.io/badge/CySA%2B-In%20Progress-yellow)
 
 ## 📌 Future Projects
-- [Advanced Threat Simulation](https://github.com/DevinClements/threat-sim) — realistic attacker emulation with layered detection logic
-- [Email Header Triage PBQ](https://github.com/DevinClements/email-triage) — CySA+ style phishing analysis with header parsing
-- [MITRE Mapping Engine](https://github.com/DevinClements/mitre-mapper) — automated log-to-technique correlation
+- [Advanced Threat Simulation]— realistic attacker emulation with layered detection logic
+- [Email Header Triage PBQ] — CySA+ style phishing analysis with header parsing
+- [MITRE Mapping Engine]- automated log-to-technique correlation
 
 ## 🎯 Goals
 - Pass **CySA+** with high proficiency (exam scheduled: Saturday @ 10:30 AM)
@@ -61,6 +61,7 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 
 ## 🤝 Connect
 [LinkedIn](https://linkedin.com/in/devinclements) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+
 
 
 
