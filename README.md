@@ -56,7 +56,8 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 - Build a portfolio of hands-on certs: GIAC, SSCP, GCIA, SecurityX
 
 ## 🤝 Connect
-[LinkedIn](https://linkedin.com/in/devinclements) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+[LinkedIn](https://linkedin.com/in/devinjclements) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+
 
 
 
