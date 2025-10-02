@@ -21,6 +21,10 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 - ![Splunk](https://img.shields.io/badge/Splunk-SIEM-orange)
 -	![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Mapping-critical)
 
+## Badges 
+<!-- START CREDLY BADGES -->
+<!-- END CREDLY BADGES -->
+
 
 ## 🏆 Certifications
 ![Security+](https://img.shields.io/badge/Security%2B-Certified-blue)
@@ -38,6 +42,7 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 
 ## 🤝 Connect
 [LinkedIn](https://linkedin.com/in/devinclements) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+
 
 
 
