@@ -17,5 +17,7 @@ jobs:
         with:
           credly_username: 'devin-clements'
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          issuer_include: 'CompTIA,Google,Project Management Institute'
+          badge_ids: '148ad3da-8081-4a3c-9104-5638291ea4ee,0ddca255-336e-47a4-964f-019fe99a9693,7444fde9-e234-489b-8e77-91881833ecf2'
+          badge_width: '120'
+          badge_height: '120'
 
