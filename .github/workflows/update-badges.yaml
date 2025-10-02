@@ -17,6 +17,6 @@ jobs:
         with:
           credly_username: 'devin-clements'
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          badge_include: 'CompTIA Security+ ce Certification, Certified Associate in Project Management (CAPM)®, CySA+, Google Project Management Certificate, Implement Load Balancing on Compute Engine Skill Badge '
+          badge_include: 'CompTIA Security+'
           badge_width: '120'
           badge_height: '120'
