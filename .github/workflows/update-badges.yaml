@@ -17,6 +17,5 @@ jobs:
         with:
           credly_username: 'devin-clements'
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          badge_include: 'CompTIA Security+ ce Certification'
-          badge_width: '120'
-          badge_height: '120'
+          issuer_include: 'CompTIA,Google,Project Management Institute'
+
