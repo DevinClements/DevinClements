@@ -24,6 +24,7 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
   <a href="https://www.credly.com/badges/148ad3da-8081-4a3c-9104-5638291ea4ee/public_url" target="_blank">
     <img src="https://images.credly.com/size/150x150/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="Security+" width="120" />
   </a>
+  
    <a href="https://www.credly.com/badges/7ba442fd-1bbc-4974-8127-d88cfd7794c1/public_url" target="_blank">
     <img src="https://images.credly.com/size/150x150/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" alt="CAPM® Certification" width="120" />
   </a>
@@ -43,7 +44,7 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 
 ## 🏆 Certifications
 ![Security+](https://img.shields.io/badge/Security%2B-Certified-blue)
-![CySA+](https://img.shields.io/badge/CySA%2B-In%20Progress-yellow)
+![CySA+](https://img.shields.io/badge/CySA%2B-Certified-blue)
 
 ## 📌 Future Projects
 - [Advanced Threat Simulation]— realistic attacker emulation with layered detection logic
@@ -57,6 +58,7 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 
 ## 🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/devinjclements/) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+
 
 
 
