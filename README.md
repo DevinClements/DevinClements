@@ -25,18 +25,14 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
     <img src="https://images.credly.com/size/150x150/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="Security+" width="120" />
   </a>
   
-   <a href="https://www.credly.com/badges/7ba442fd-1bbc-4974-8127-d88cfd7794c1/public_url" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" alt="CAPM® Certification" width="120" />
+   <a href="https://www.credly.com/badges/3a726974-e48b-4e7b-9021-78bbc18163bd/public_url" target="_blank">
+    <img src="assets/CySA+.png" alt="CompTIA CySA+" width="120" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
   </a>
-    <a href="https://www.credly.com/badges/0ddca255-336e-47a4-964f-019fe99a9693/public_url" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/aa42e8b5-b36d-4b8c-abbe-c6a6f51fd7d9/blob" alt="Prompt Engineering" width="120" />
-  </a>
-  <a href="https://www.credly.com/badges/7444fde9-e234-489b-8e77-91881833ecf2/public_url" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob" alt="Generative AI Overview" width="120" />
-  </a>
-  <a href="https://www.credly.com/badges/7e54d69b-467d-473c-83f6-6c859376ac3b/public_url" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" alt="Google Project Management Certificate" width="120" />
-  </a>
+
+  <a href="https://www.credly.com/badges/9b272d41-a972-48a3-951d-00a9362b3e19/public_url" target="_blank">
+  <img src="assets/CSAP.png" alt="CompTIA Security Analytics Professional (CSAP)" width="120" />
+</a>
+
 </p>
 <!-- END CREDLY BADGES -->
 
@@ -58,6 +54,7 @@ I'm a Security+ certified cybersecurity analyst with deep expertise in threat hu
 
 ## 🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/devinjclements/) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+
 
 
 
