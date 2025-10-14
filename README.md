@@ -39,7 +39,7 @@ I'm a CompTIA CySA+ and Security+ certified cybersecurity analyst with elite exp
 <!-- END CREDLY BADGES -->
 
 ## 📌 Future Projects
-- [Advanced Threat Simulation] — realistic attacker emulation with layered detection logic
+- [Suricata Detection Pipeline](https://github.com/DevinClements/suricata-detection) — containerized deployment with custom rule injection, alert validation, and Caldera integration
 - [Email Header Triage PBQ] — CySA+ style phishing analysis with header parsing
 - [MITRE Mapping Engine] — automated log-to-technique correlation
 
@@ -50,6 +50,7 @@ I'm a CompTIA CySA+ and Security+ certified cybersecurity analyst with elite exp
 
 ## 🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/devinjclements/) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+
 
 
 
