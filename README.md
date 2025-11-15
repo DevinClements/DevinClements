@@ -45,11 +45,11 @@ I'm a CompTIA CySA+ and Security+ certified cybersecurity analyst with elite exp
 
 ## 🎯 Goals
 - Transition into high-impact technical roles that value mastery over management
-- Build a portfolio of hands-on certs: GIAC, SSCP, GCIA, SecurityX
-- Refine GitHub and LinkedIn branding with clean badge rows and recruiter-ready layouts
+
 
 ## 🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/devinjclements/) • [GitHub](https://github.com/DevinClements) • [Email](mailto:devinjclements@gmail.com)
+
 
 
 
